@@ -8,9 +8,6 @@
   "homepage": "https://github.com/eritislami/evobot",
   "repository": "github:eritislami/evobot",
   "bugs": "https://github.com/eritislami/evobot/issues",
-  "engines": {
-    "node": ">=12.0.0"
-  },
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
     "array-move": "^3.0.1",
